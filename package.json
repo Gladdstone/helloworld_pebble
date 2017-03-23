@@ -1,0 +1,21 @@
+{
+    "author": "disastrousgamemaster@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello-world",
+    "pebble": {
+        "displayName": "Hello World",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "6d5217ba-d63f-408d-b8b1-e5f5bcaef772",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
